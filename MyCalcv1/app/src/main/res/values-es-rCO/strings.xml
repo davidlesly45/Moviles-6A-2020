@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">mi calculadora</string>
+    <string name="lbl_n1">numero uno</string>
+    <string name="lbl_n2">numero dos</string>
+    <string name="btn_Add">sumar</string>
+    <string name="hnt_n1">235</string>
+    <string name="hnt_n2">110</string>
+</resources>
